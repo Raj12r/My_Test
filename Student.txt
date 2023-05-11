@@ -1,4 +1,7 @@
 class{
 int id;
 String name;
+String gender;
+int roll;
+
 }
